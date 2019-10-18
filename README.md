@@ -1,5 +1,5 @@
 # DigWallPaper
 壁纸项目
  
-# Screenshots
+# 录屏展示
 ![image](/preview.gif)
